@@ -1,0 +1,17 @@
+*{
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+body{
+    font-family: "merriweather";
+    background-image: url("../../assets/images/bg-blue.jpg");
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+
+}
